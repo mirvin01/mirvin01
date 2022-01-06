@@ -1,5 +1,5 @@
 ## ENG:<br/>
-Hi, I'm Mirvin01. This is where my open source projects are located and more.
+Hi, I'm Marvin01. Here are my open source projects and more.
 
 ### My contacts:<br/>
 VK - https://vk.com/mirvin01 (priority method of communication)<br/>
