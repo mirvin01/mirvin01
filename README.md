@@ -1,4 +1,4 @@
-#ENG:
+#ENG:<br/>
 Hi, I'm Mirvin01. This is where my open source projects are located and more.
 
 ##My contacts:<br/>
@@ -7,7 +7,7 @@ Discord - Mirvin01#0623<br/>
 Mail - mirvin01.feedback@gmail.com<br/>
 
 
-#RUS:
+#RUS:<br/>
 Привет, я Мирвин. Здесь расположены мои проекты с открытым кодом и не только. 
 
 ##Мои контакты:<br/>
